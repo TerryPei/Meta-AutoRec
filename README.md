@@ -1,2 +1,5 @@
 # metaAutoRec
-AutoEncoder for Recommendation enhanced by meta-learning
+AutoEncoder for Recommendation enhanced by First-order MAML
+
+
+
